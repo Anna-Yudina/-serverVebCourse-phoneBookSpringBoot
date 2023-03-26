@@ -1,0 +1,43 @@
+2023-03-26 18:03:04 INFO  SpringBootAppApplication:55 - Starting SpringBootAppApplication using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 13956 (C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot\target\classes started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-26 18:03:04 DEBUG SpringBootAppApplication:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-26 18:03:04 INFO  SpringBootAppApplication:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-26 18:03:06 INFO  SpringBootAppApplication:61 - Started SpringBootAppApplication in 2.078 seconds (JVM running for 3.092)
+2023-03-26 18:03:15 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-26 18:03:18 INFO  PhoneBookController:41 - Вызвали метод addContact с переданным контактом: {0, 1, 1}
+2023-03-26 18:03:18 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-26 18:03:20 INFO  PhoneBookController:41 - Вызвали метод addContact с переданным контактом: {0, 2, 2}
+2023-03-26 18:03:20 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-27 15:55:45 INFO  SpringBootAppApplication:55 - Starting SpringBootAppApplication using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 16984 (C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot\target\classes started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-27 15:55:45 DEBUG SpringBootAppApplication:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-27 15:55:45 INFO  SpringBootAppApplication:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 15:55:46 INFO  SpringBootAppApplication:61 - Started SpringBootAppApplication in 1.618 seconds (JVM running for 3.603)
+2023-03-27 15:55:57 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-27 15:56:03 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-27 15:57:13 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-27 15:58:04 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-27 15:58:21 INFO  SpringBootAppApplication:55 - Starting SpringBootAppApplication using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 8480 (C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot\target\classes started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-27 15:58:21 DEBUG SpringBootAppApplication:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-27 15:58:21 INFO  SpringBootAppApplication:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 15:58:23 INFO  SpringBootAppApplication:61 - Started SpringBootAppApplication in 2.879 seconds (JVM running for 3.775)
+2023-03-27 15:58:24 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-27 15:58:26 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-27 16:02:36 INFO  SpringBootAppApplication:55 - Starting SpringBootAppApplication using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 15848 (C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot\target\classes started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-27 16:02:36 DEBUG SpringBootAppApplication:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-27 16:02:36 INFO  SpringBootAppApplication:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 16:02:38 INFO  SpringBootAppApplication:61 - Started SpringBootAppApplication in 2.9 seconds (JVM running for 4.283)
+2023-03-27 16:02:41 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-27 16:02:43 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-27 16:02:46 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-27 16:02:49 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-27 16:03:39 INFO  SpringBootAppApplication:55 - Starting SpringBootAppApplication using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 5212 (C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot\target\classes started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-27 16:03:39 DEBUG SpringBootAppApplication:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-27 16:03:39 INFO  SpringBootAppApplication:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 16:03:42 INFO  SpringBootAppApplication:61 - Started SpringBootAppApplication in 3.029 seconds (JVM running for 4.449)
+2023-03-27 16:03:43 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-27 16:03:43 ERROR PhoneBookController:31 - Список контактов пуст
+2023-03-27 16:03:45 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-27 16:03:45 ERROR PhoneBookController:31 - Список контактов пуст
+2023-03-27 16:07:38 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-27 16:07:38 ERROR PhoneBookController:31 - Список контактов пуст
+2023-03-27 16:08:17 INFO  PhoneBookController:26 - Вызвали метод getAllContacts()
+2023-03-27 16:08:17 ERROR PhoneBookController:31 - Список контактов пуст

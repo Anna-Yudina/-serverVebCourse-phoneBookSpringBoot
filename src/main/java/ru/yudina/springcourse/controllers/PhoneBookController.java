@@ -1,11 +1,11 @@
 package ru.yudina.springcourse.controllers;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.*;
 import ru.yudina.springcourse.model.Contact;
 import ru.yudina.springcourse.model.ContactValidation;
 import ru.yudina.springcourse.service.ContactService;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -23,22 +23,54 @@ public class PhoneBookController {
 
     @GetMapping("/getAllContacts")
     public List<Contact> getAllContacts() {
-        logger.info("called method getAllContacts");
-        return contactService.getAllContacts();
+        logger.info("Вызвали метод getAllContacts()");
+        List<Contact> contacts = contactService.getAllContacts();
+
+        if (contacts == null) {
+            RuntimeException ex = new RuntimeException("Список контактов пуст");
+            logger.error(ex.getMessage());
+            throw ex;
+        }
+
+        return contacts;
     }
 
     @PostMapping("/addContact")
     public ContactValidation addContact(@RequestBody Contact contact) {
-        return contactService.addContact(contact);
+        logger.info("Вызвали метод addContact с переданным контактом: {}", contact.toString());
+
+        ContactValidation contactValidation = contactService.addContact(contact);
+
+        if (contactValidation.isValid()) {
+            return contactValidation;
+        } else {
+            RuntimeException ex = new RuntimeException("Возникла ошибка при добавлении контакта");
+            logger.error(ex.getMessage());
+            throw ex;
+        }
     }
 
     @PostMapping("/deleteContact")
     public void deleteContact(@RequestBody Contact contact) {
-        contactService.deleteContact(contact);
+        logger.info("Вызвали метод deleteContact с переданным контактом: {}", contact.toString());
+
+        try {
+            contactService.deleteContact(contact);
+        } catch (RuntimeException ex) {
+            logger.error(ex.getMessage(), ex);
+            throw new RuntimeException();
+        }
     }
 
     @PostMapping("/deleteCheckedContacts")
     public void deleteCheckedContacts(@RequestBody ArrayList<Integer> checkedContactsIds) {
-        contactService.deleteCheckedContacts(checkedContactsIds);
+        logger.info("Вызвали метод deleteCheckedContacts с переданными id контактов: {}", checkedContactsIds);
+
+        try {
+            contactService.deleteCheckedContacts(checkedContactsIds);
+        } catch (RuntimeException ex) {
+            logger.error(ex.getMessage(), ex);
+            throw new RuntimeException();
+        }
     }
 }

@@ -57,9 +57,7 @@ public class ContactService {
 
     public ContactValidation addContact(Contact contact) {
         ContactValidation contactValidation = validateContact(contact);
-        if (contactValidation.isValid()) {
-            contactDao.add(contact);
-        }
+        contactDao.add(contact);
         return contactValidation;
     }
 
