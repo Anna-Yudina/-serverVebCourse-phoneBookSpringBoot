@@ -1530,3 +1530,134 @@ java.lang.RuntimeException: Список контактов пуст, нечег
 2023-03-27 17:32:51 DEBUG PhoneBookController:91 - Random index: 0
 2023-03-27 17:32:51 INFO  PhoneBookController:94 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, 9123456566}
 2023-03-27 17:32:51 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {2, Петр, 9123456566}
+2023-03-27 20:25:48 INFO  SpringBootAppApplication:55 - Starting SpringBootAppApplication using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 3652 (C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot\target\classes started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-27 20:25:48 DEBUG SpringBootAppApplication:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-27 20:25:48 INFO  SpringBootAppApplication:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 20:25:50 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:25:50 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-27 20:25:50 INFO  SpringBootAppApplication:61 - Started SpringBootAppApplication in 1.777 seconds (JVM running for 2.578)
+2023-03-27 20:25:50 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, 9121116566}
+2023-03-27 20:25:50 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {3, Вася, 9121116566}
+2023-03-27 20:26:00 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:26:00 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-27 20:26:00 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, 9123456566}
+2023-03-27 20:26:00 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {2, Петр, 9123456566}
+2023-03-27 20:26:10 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:26:10 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-27 20:26:10 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, 9123456789}
+2023-03-27 20:26:10 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {1, Иван, 9123456789}
+2023-03-27 20:26:10 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:26:12 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:26:20 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:26:20 ERROR ContactScheduler:28 - Список контактов пуст, нечего удалять
+2023-03-27 20:26:20 ERROR TaskUtils$LoggingErrorHandler:95 - Unexpected error occurred in scheduled task
+java.lang.RuntimeException: Список контактов пуст, нечего удалять
+	at ru.yudina.springcourse.schedule.ContactScheduler.deleteRandomContactBySchedule(ContactScheduler.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2023-03-27 20:26:30 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:26:30 ERROR ContactScheduler:28 - Список контактов пуст, нечего удалять
+2023-03-27 20:26:30 ERROR TaskUtils$LoggingErrorHandler:95 - Unexpected error occurred in scheduled task
+java.lang.RuntimeException: Список контактов пуст, нечего удалять
+	at ru.yudina.springcourse.schedule.ContactScheduler.deleteRandomContactBySchedule(ContactScheduler.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2023-03-27 20:26:40 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:26:40 ERROR ContactScheduler:28 - Список контактов пуст, нечего удалять
+2023-03-27 20:26:40 ERROR TaskUtils$LoggingErrorHandler:95 - Unexpected error occurred in scheduled task
+java.lang.RuntimeException: Список контактов пуст, нечего удалять
+	at ru.yudina.springcourse.schedule.ContactScheduler.deleteRandomContactBySchedule(ContactScheduler.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2023-03-27 20:26:50 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:26:50 ERROR ContactScheduler:28 - Список контактов пуст, нечего удалять
+2023-03-27 20:26:50 ERROR TaskUtils$LoggingErrorHandler:95 - Unexpected error occurred in scheduled task
+java.lang.RuntimeException: Список контактов пуст, нечего удалять
+	at ru.yudina.springcourse.schedule.ContactScheduler.deleteRandomContactBySchedule(ContactScheduler.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2023-03-27 20:26:58 INFO  SpringBootAppApplication:55 - Starting SpringBootAppApplication using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 6540 (C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot\target\classes started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-27 20:26:58 DEBUG SpringBootAppApplication:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-27 20:26:58 INFO  SpringBootAppApplication:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 20:26:59 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:26:59 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-27 20:26:59 INFO  SpringBootAppApplication:61 - Started SpringBootAppApplication in 1.528 seconds (JVM running for 2.221)
+2023-03-27 20:26:59 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, 9123456789}
+2023-03-27 20:26:59 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {1, Иван, 9123456789}
+2023-03-27 20:27:02 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:27:04 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:27:08 INFO  PhoneBookController:42 - Вызвали метод addContact с переданным контактом: {0, 1, 1}
+2023-03-27 20:27:08 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:27:09 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:27:09 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-27 20:27:09 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, 9123456566}
+2023-03-27 20:27:09 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {2, Петр, 9123456566}
+2023-03-27 20:27:10 INFO  PhoneBookController:42 - Вызвали метод addContact с переданным контактом: {0, 2, 2}
+2023-03-27 20:27:10 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:27:12 INFO  PhoneBookController:42 - Вызвали метод addContact с переданным контактом: {0, 3, 3}
+2023-03-27 20:27:12 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:27:14 INFO  PhoneBookController:42 - Вызвали метод addContact с переданным контактом: {0, 4, 4}
+2023-03-27 20:27:14 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:27:16 INFO  PhoneBookController:42 - Вызвали метод addContact с переданным контактом: {0, 5, 5}
+2023-03-27 20:27:16 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:27:19 INFO  PhoneBookController:42 - Вызвали метод addContact с переданным контактом: {0, 6, 6}
+2023-03-27 20:27:19 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:27:19 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:27:19 DEBUG ContactScheduler:34 - Random index: 3
+2023-03-27 20:27:19 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {6, 3, 3}
+2023-03-27 20:27:19 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {6, 3, 3}
+2023-03-27 20:27:23 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:27:27 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:27:29 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:27:29 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-27 20:27:29 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, 9121116566}
+2023-03-27 20:27:29 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {3, Вася, 9121116566}
+2023-03-27 20:27:32 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:27:39 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:27:39 DEBUG ContactScheduler:34 - Random index: 3
+2023-03-27 20:27:39 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {8, 5, 5}
+2023-03-27 20:27:39 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {8, 5, 5}
+2023-03-27 20:27:49 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:27:49 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-27 20:27:49 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {7, 4, 4}
+2023-03-27 20:27:49 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {7, 4, 4}

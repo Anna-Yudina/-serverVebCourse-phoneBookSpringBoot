@@ -75,23 +75,4 @@ public class PhoneBookController {
             throw new RuntimeException();
         }
     }
-
-    @Scheduled(fixedDelay = 10000)
-    public void deleteRandomContactBySchedule() {
-        List<Contact> contacts = getAllContacts();
-
-        if (contacts.size() == 0){
-            RuntimeException ex = new RuntimeException("Список контактов пуст, нечего удалять");
-            logger.error(ex.getMessage());
-            throw ex;
-        }
-
-        Random random = new Random();
-        int index = random.nextInt(contacts.size());
-        logger.debug("Random index: {}", index);
-        Contact deletedContact = contacts.get(index);
-
-        logger.info("Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {}", deletedContact.toString());
-        deleteContact(deletedContact);
-    }
 }
