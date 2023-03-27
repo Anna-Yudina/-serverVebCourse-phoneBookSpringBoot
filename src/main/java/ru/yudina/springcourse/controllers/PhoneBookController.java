@@ -2,6 +2,7 @@ package ru.yudina.springcourse.controllers;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.web.bind.annotation.*;
 import ru.yudina.springcourse.model.Contact;
 import ru.yudina.springcourse.model.ContactValidation;
@@ -9,6 +10,7 @@ import ru.yudina.springcourse.service.ContactService;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Random;
 
 @RestController
 @RequestMapping("/phoneBook/rpc/api/v1")
@@ -72,5 +74,24 @@ public class PhoneBookController {
             logger.error(ex.getMessage(), ex);
             throw new RuntimeException();
         }
+    }
+
+    @Scheduled(fixedDelay = 10000)
+    public void deleteRandomContactBySchedule() {
+        List<Contact> contacts = getAllContacts();
+
+        if (contacts.size() == 0){
+            RuntimeException ex = new RuntimeException("Список контактов пуст, нечего удалять");
+            logger.error(ex.getMessage());
+            throw ex;
+        }
+
+        Random random = new Random();
+        int index = random.nextInt(contacts.size());
+        logger.debug("Random index: {}", index);
+        Contact deletedContact = contacts.get(index);
+
+        logger.info("Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {}", deletedContact.toString());
+        deleteContact(deletedContact);
     }
 }

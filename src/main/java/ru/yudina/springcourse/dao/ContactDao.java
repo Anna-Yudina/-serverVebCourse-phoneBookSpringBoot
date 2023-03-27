@@ -14,12 +14,9 @@ public class ContactDao {
     private static AtomicInteger idSequence = new AtomicInteger(0);
 
     public ContactDao() {
-        Contact contact = new Contact();
-        contact.setId(getNewId());
-        contact.setFirstName("Иван");
-        contact.setLastName("Иванов");
-        contact.setPhone("9123456789");
-        contactList.add(contact);
+        contactList.add(new Contact(getNewId(), "Иван", "Иванов", "9123456789"));
+        contactList.add(new Contact(getNewId(), "Петр", "Петров", "9123456566"));
+        contactList.add(new Contact(getNewId(), "Вася", "Сидоров", "9121116566"));
     }
 
     private int getNewId() {
@@ -37,7 +34,6 @@ public class ContactDao {
 
     public void deleteContact(Contact contact) {
         contactList = contactList.stream().filter(c -> c.getId() != contact.getId()).collect(Collectors.toList());
-        System.out.println(contactList);
     }
 
     public void deleteCheckedContacts(ArrayList<Integer> checkedContactsIds) {

@@ -7,6 +7,13 @@ public class Contact {
     private String phone;
     private boolean important;
 
+    public Contact(int id, String firstName, String lastName, String phone) {
+        this.id = id;
+        this.firstName = firstName;
+        this.lastName = lastName;
+        this.phone = phone;
+    }
+
     public int getId() {
         return id;
     }
