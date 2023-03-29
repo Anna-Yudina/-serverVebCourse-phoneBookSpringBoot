@@ -1661,3 +1661,1305 @@ java.lang.RuntimeException: Список контактов пуст, нечег
 2023-03-27 20:27:49 DEBUG ContactScheduler:34 - Random index: 2
 2023-03-27 20:27:49 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {7, 4, 4}
 2023-03-27 20:27:49 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {7, 4, 4}
+2023-03-27 20:33:15 INFO  SpringBootAppApplicationTests:55 - Starting SpringBootAppApplicationTests using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 8340 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-27 20:33:15 DEBUG SpringBootAppApplicationTests:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-27 20:33:15 INFO  SpringBootAppApplicationTests:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 20:33:16 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:33:16 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-27 20:33:16 INFO  SpringBootAppApplicationTests:61 - Started SpringBootAppApplicationTests in 2.073 seconds (JVM running for 3.181)
+2023-03-27 20:33:16 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, 9123456789}
+2023-03-27 20:33:16 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {1, Иван, 9123456789}
+2023-03-27 20:42:50 INFO  SpringBootAppApplicationTests:55 - Starting SpringBootAppApplicationTests using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 15840 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-27 20:42:50 DEBUG SpringBootAppApplicationTests:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-27 20:42:50 INFO  SpringBootAppApplicationTests:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 20:42:51 INFO  PhoneBookController:28 - ������� ����� getAllContacts()
+2023-03-27 20:42:51 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-27 20:42:51 INFO  SpringBootAppApplicationTests:61 - Started SpringBootAppApplicationTests in 2.078 seconds (JVM running for 3.134)
+2023-03-27 20:42:51 INFO  ContactScheduler:37 - ������� ����� deleteRandomContactBySchedule �� ����������, ��������� �������: {2, ����, 9123456566}
+2023-03-27 20:42:51 INFO  PhoneBookController:57 - ������� ����� deleteContact � ���������� ���������: {2, ����, 9123456566}
+2023-03-27 20:43:32 INFO  SpringBootAppApplicationTests:55 - Starting SpringBootAppApplicationTests using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 4632 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-27 20:43:32 DEBUG SpringBootAppApplicationTests:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-27 20:43:32 INFO  SpringBootAppApplicationTests:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 20:43:34 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:43:34 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-27 20:43:34 INFO  SpringBootAppApplicationTests:61 - Started SpringBootAppApplicationTests in 2.078 seconds (JVM running for 3.242)
+2023-03-27 20:43:34 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, 9123456789}
+2023-03-27 20:43:34 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {1, Иван, 9123456789}
+2023-03-27 20:44:36 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 17232 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-27 20:44:36 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-27 20:44:36 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-27 20:44:38 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-27 20:44:38 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-27 20:44:38 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.044 seconds (JVM running for 3.179)
+2023-03-27 20:44:38 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, 9123456566}
+2023-03-27 20:44:38 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {2, Петр, 9123456566}
+2023-03-28 20:19:15 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 1924 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 20:19:15 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 20:19:15 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 20:19:16 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 20:19:16 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-28 20:19:16 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.129 seconds (JVM running for 3.465)
+2023-03-28 20:19:16 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, 9123456789}
+2023-03-28 20:19:16 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {1, Иван, 9123456789}
+2023-03-28 20:19:17 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:07:16 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 13172 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:07:16 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:07:16 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:07:19 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:07:19 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 21:07:19 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 3.611 seconds (JVM running for 5.875)
+2023-03-28 21:07:19 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, 9123456566}
+2023-03-28 21:07:19 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {2, Петр, 9123456566}
+2023-03-28 21:07:20 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:07:53 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 3704 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:07:53 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:07:53 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:07:56 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:07:56 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-28 21:07:56 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 3.476 seconds (JVM running for 5.532)
+2023-03-28 21:07:56 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, 9121116566}
+2023-03-28 21:07:56 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {3, Вася, 9121116566}
+2023-03-28 21:07:57 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:11:48 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 11992 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:11:48 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:11:48 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:11:51 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:11:51 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-28 21:11:51 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 3.685 seconds (JVM running for 5.821)
+2023-03-28 21:11:51 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, 9123456789}
+2023-03-28 21:11:51 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {1, Иван, 9123456789}
+2023-03-28 21:11:52 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:12:31 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 13928 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:12:31 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:12:31 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:12:34 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:12:34 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 21:12:34 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 3.635 seconds (JVM running for 5.794)
+2023-03-28 21:12:34 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, 9123456566}
+2023-03-28 21:12:34 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {2, Петр, 9123456566}
+2023-03-28 21:12:35 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:14:22 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 11716 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:14:22 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:14:22 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:14:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:14:25 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-28 21:14:25 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 3.713 seconds (JVM running for 5.837)
+2023-03-28 21:14:25 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, 9123456789}
+2023-03-28 21:14:25 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {1, Иван, 9123456789}
+2023-03-28 21:14:26 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:15:01 INFO  SpringBootAppApplication:55 - Starting SpringBootAppApplication using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 15408 (C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot\target\classes started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:15:01 DEBUG SpringBootAppApplication:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:15:01 INFO  SpringBootAppApplication:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:15:03 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:15:03 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 21:15:03 INFO  SpringBootAppApplication:61 - Started SpringBootAppApplication in 2.705 seconds (JVM running for 4.17)
+2023-03-28 21:15:03 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, 9123456566}
+2023-03-28 21:15:03 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {2, Петр, 9123456566}
+2023-03-28 21:15:10 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:15:13 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:15:13 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-28 21:15:13 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, 9123456789}
+2023-03-28 21:15:13 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {1, Иван, 9123456789}
+2023-03-28 21:15:14 INFO  PhoneBookController:42 - Вызвали метод addContact с переданным контактом: {0, 1, 1}
+2023-03-28 21:15:14 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:15:17 INFO  PhoneBookController:42 - Вызвали метод addContact с переданным контактом: {0, 2, 2}
+2023-03-28 21:15:17 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:15:19 INFO  PhoneBookController:42 - Вызвали метод addContact с переданным контактом: {0, 3, 3}
+2023-03-28 21:15:19 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:15:23 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:15:23 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-28 21:15:23 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {5, 2, 2}
+2023-03-28 21:15:23 INFO  PhoneBookController:57 - Вызвали метод deleteContact с переданным контактом: {5, 2, 2}
+2023-03-28 21:18:04 INFO  SpringBootAppApplication:55 - Starting SpringBootAppApplication using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 15540 (C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot\target\classes started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:18:04 DEBUG SpringBootAppApplication:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:18:04 INFO  SpringBootAppApplication:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:18:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:18:07 INFO  SpringBootAppApplication:61 - Started SpringBootAppApplication in 2.906 seconds (JVM running for 4.267)
+2023-03-28 21:18:07 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 21:18:07 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 21:18:07 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, 9123456566}
+2023-03-28 21:18:07 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {2, Петр, 9123456566}
+2023-03-28 21:18:17 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:18:17 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {3, Вася, 9121116566}]
+2023-03-28 21:18:17 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 21:18:17 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, 9121116566}
+2023-03-28 21:18:17 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, 9121116566}
+2023-03-28 21:18:27 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:18:27 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}]
+2023-03-28 21:18:27 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-28 21:18:27 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, 9123456789}
+2023-03-28 21:18:27 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {1, Иван, 9123456789}
+2023-03-28 21:18:37 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:18:37 INFO  PhoneBookController:30 - Полученный список контактов: []
+2023-03-28 21:18:37 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:18:37 INFO  PhoneBookController:30 - Полученный список контактов: []
+2023-03-28 21:18:37 ERROR ContactScheduler:28 - Список контактов пуст, нечего удалять
+2023-03-28 21:18:37 ERROR TaskUtils$LoggingErrorHandler:95 - Unexpected error occurred in scheduled task
+java.lang.RuntimeException: Список контактов пуст, нечего удалять
+	at ru.yudina.springcourse.schedule.ContactScheduler.deleteRandomContactBySchedule(ContactScheduler.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2023-03-28 21:18:47 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:18:47 INFO  PhoneBookController:30 - Полученный список контактов: []
+2023-03-28 21:18:47 ERROR ContactScheduler:28 - Список контактов пуст, нечего удалять
+2023-03-28 21:18:47 ERROR TaskUtils$LoggingErrorHandler:95 - Unexpected error occurred in scheduled task
+java.lang.RuntimeException: Список контактов пуст, нечего удалять
+	at ru.yudina.springcourse.schedule.ContactScheduler.deleteRandomContactBySchedule(ContactScheduler.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2023-03-28 21:18:57 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:18:57 INFO  PhoneBookController:30 - Полученный список контактов: []
+2023-03-28 21:18:57 ERROR ContactScheduler:28 - Список контактов пуст, нечего удалять
+2023-03-28 21:18:57 ERROR TaskUtils$LoggingErrorHandler:95 - Unexpected error occurred in scheduled task
+java.lang.RuntimeException: Список контактов пуст, нечего удалять
+	at ru.yudina.springcourse.schedule.ContactScheduler.deleteRandomContactBySchedule(ContactScheduler.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2023-03-28 21:19:43 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 1036 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:19:43 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:19:43 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:19:46 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:19:46 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 3.654 seconds (JVM running for 5.757)
+2023-03-28 21:19:46 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 21:19:46 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-28 21:19:46 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, 9123456789}
+2023-03-28 21:19:46 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {1, Иван, 9123456789}
+2023-03-28 21:19:46 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:19:46 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 21:21:20 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 2904 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:21:20 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:21:20 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:21:21 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:21:21 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.008 seconds (JVM running for 3.102)
+2023-03-28 21:21:21 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 21:21:21 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 21:21:21 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, 9123456566}
+2023-03-28 21:21:21 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {2, Петр, 9123456566}
+2023-03-28 21:21:22 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:21:22 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 21:24:05 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 2612 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:24:05 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:24:05 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:24:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:24:07 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 1.994 seconds (JVM running for 3.119)
+2023-03-28 21:24:07 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 21:24:07 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 21:24:07 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, 9123456566}
+2023-03-28 21:24:07 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {2, Петр, 9123456566}
+2023-03-28 21:24:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:24:07 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 21:29:57 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 188 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:29:57 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:29:57 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:29:58 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:29:58 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 1.983 seconds (JVM running for 3.095)
+2023-03-28 21:29:58 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 21:29:58 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-28 21:29:58 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, 9123456789}
+2023-03-28 21:29:58 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {1, Иван, 9123456789}
+2023-03-28 21:29:59 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:29:59 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 21:33:39 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 1220 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:33:39 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:33:39 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:33:40 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:33:40 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.055 seconds (JVM running for 3.227)
+2023-03-28 21:33:40 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 21:33:40 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 21:33:40 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, 9123456566}
+2023-03-28 21:33:40 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {2, Петр, 9123456566}
+2023-03-28 21:33:41 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:33:41 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 21:38:38 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 12128 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:38:38 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:38:38 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:38:40 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:38:40 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.032 seconds (JVM running for 3.155)
+2023-03-28 21:38:40 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 21:38:40 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 21:38:40 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, 9123456566}
+2023-03-28 21:38:40 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {2, Петр, 9123456566}
+2023-03-28 21:38:40 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:38:40 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 21:40:08 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 15740 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:40:08 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:40:08 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:40:09 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:40:09 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.009 seconds (JVM running for 3.13)
+2023-03-28 21:40:09 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 21:40:09 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-28 21:40:09 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, 9121116566}
+2023-03-28 21:40:09 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, 9121116566}
+2023-03-28 21:40:10 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:40:10 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 21:42:43 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 7492 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:42:43 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:42:43 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:42:45 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:42:45 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.025 seconds (JVM running for 3.119)
+2023-03-28 21:42:45 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 21:42:45 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-28 21:42:45 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, 9123456789}
+2023-03-28 21:42:45 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {1, Иван, 9123456789}
+2023-03-28 21:42:46 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:42:46 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 21:44:23 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 10984 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:44:23 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:44:23 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:44:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:44:25 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.065 seconds (JVM running for 3.21)
+2023-03-28 21:44:25 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 21:44:25 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-28 21:44:25 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, 9123456789}
+2023-03-28 21:44:25 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {1, Иван, 9123456789}
+2023-03-28 21:44:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:44:25 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 21:44:51 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 15168 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:44:51 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:44:51 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:44:52 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:44:53 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.062 seconds (JVM running for 3.187)
+2023-03-28 21:44:53 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 21:44:53 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 21:44:53 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, 9123456566}
+2023-03-28 21:44:53 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {2, Петр, 9123456566}
+2023-03-28 21:44:53 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:44:53 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 21:45:26 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 2812 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:45:26 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:45:26 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:45:28 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:45:28 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.045 seconds (JVM running for 3.175)
+2023-03-28 21:45:28 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 21:45:28 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 21:45:28 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, 9123456566}
+2023-03-28 21:45:28 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {2, Петр, 9123456566}
+2023-03-28 21:45:28 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:45:28 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 21:45:45 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 6592 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:45:45 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:45:45 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:45:47 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:45:47 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.075 seconds (JVM running for 3.23)
+2023-03-28 21:45:47 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 21:45:47 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-28 21:45:47 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, 9121116566}
+2023-03-28 21:45:47 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, 9121116566}
+2023-03-28 21:45:47 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:45:47 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 21:52:36 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 14676 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 21:52:36 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 21:52:36 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 21:52:38 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:52:38 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.331 seconds (JVM running for 4.079)
+2023-03-28 21:52:38 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 21:52:38 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-28 21:52:38 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, 9121116566}
+2023-03-28 21:52:38 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, 9121116566}
+2023-03-28 21:52:38 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 21:52:38 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 22:00:38 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 9912 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:00:38 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:00:38 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:00:40 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:00:40 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.007 seconds (JVM running for 3.185)
+2023-03-28 22:00:40 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 22:00:40 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-28 22:00:40 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, 9121116566}
+2023-03-28 22:00:40 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, 9121116566}
+2023-03-28 22:00:40 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:00:40 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 22:00:57 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 7856 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:00:57 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:00:57 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:00:59 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:00:59 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.028 seconds (JVM running for 3.176)
+2023-03-28 22:00:59 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 22:00:59 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-28 22:00:59 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, 9123456789}
+2023-03-28 22:00:59 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {1, Иван, 9123456789}
+2023-03-28 22:00:59 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:00:59 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 22:00:59 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {6, Вася, 9121116566}
+2023-03-28 22:00:59 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:00:59 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}]
+2023-03-28 22:01:27 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 11620 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:01:27 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:01:27 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:01:29 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:01:29 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.042 seconds (JVM running for 3.181)
+2023-03-28 22:01:29 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 22:01:29 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-28 22:01:29 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, 9121116566}
+2023-03-28 22:01:29 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, 9121116566}
+2023-03-28 22:01:29 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:01:29 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 22:01:29 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {6, Вася, 9121116566}
+2023-03-28 22:01:29 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:01:29 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}]
+2023-03-28 22:01:49 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 2924 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:01:49 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:01:49 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:01:51 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:01:51 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.015 seconds (JVM running for 3.119)
+2023-03-28 22:01:51 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 22:01:51 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-28 22:01:51 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, 9121116566}
+2023-03-28 22:01:51 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, 9121116566}
+2023-03-28 22:01:51 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:01:51 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 22:01:51 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {6, Вася, 9121116566}
+2023-03-28 22:01:51 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:01:51 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}]
+2023-03-28 22:07:11 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 4932 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:07:11 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:07:11 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:07:12 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:07:12 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.028 seconds (JVM running for 3.166)
+2023-03-28 22:07:12 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 22:07:12 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 22:07:12 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, 9123456566}
+2023-03-28 22:07:12 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {2, Петр, 9123456566}
+2023-03-28 22:07:13 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:07:13 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 22:07:13 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {4, Иван, 9123456789}
+2023-03-28 22:07:13 ERROR PhoneBookController:51 - Возникла ошибка при добавлении контакта
+2023-03-28 22:12:09 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 8088 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:12:09 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:12:09 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:12:11 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:12:11 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.02 seconds (JVM running for 3.144)
+2023-03-28 22:12:11 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 22:12:11 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-28 22:12:11 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, 9121116566}
+2023-03-28 22:12:11 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, 9121116566}
+2023-03-28 22:12:11 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:12:11 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 22:12:11 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, Anna, 777}
+2023-03-28 22:12:11 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:12:11 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}, {7, Anna, 777}]
+2023-03-28 22:21:27 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 304 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:21:27 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:21:27 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:21:28 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:21:29 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.057 seconds (JVM running for 3.185)
+2023-03-28 22:21:29 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 22:21:29 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-28 22:21:29 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, 9123456789}
+2023-03-28 22:21:29 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {1, Иван, 9123456789}
+2023-03-28 22:21:29 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [4, 5]
+2023-03-28 22:21:29 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:21:29 INFO  PhoneBookController:30 - Полученный список контактов: [{6, Вася, 9121116566}]
+2023-03-28 22:21:46 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 5748 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:21:46 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:21:46 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:21:47 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:21:47 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.168 seconds (JVM running for 3.474)
+2023-03-28 22:21:47 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, 9123456789}, {2, Петр, 9123456566}, {3, Вася, 9121116566}]
+2023-03-28 22:21:47 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-28 22:21:47 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, 9121116566}
+2023-03-28 22:21:47 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, 9121116566}
+2023-03-28 22:21:48 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:21:48 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}]
+2023-03-28 22:21:48 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, Anna, 777}
+2023-03-28 22:21:48 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:21:48 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, 9123456789}, {5, Петр, 9123456566}, {6, Вася, 9121116566}, {7, Anna, 777}]
+2023-03-28 22:21:48 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:21:48 INFO  PhoneBookController:30 - Полученный список контактов: [{8, Иван, 9123456789}, {9, Петр, 9123456566}, {10, Вася, 9121116566}]
+2023-03-28 22:21:48 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [4, 5]
+2023-03-28 22:21:48 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:21:48 INFO  PhoneBookController:30 - Полученный список контактов: [{11, Иван, 9123456789}, {12, Петр, 9123456566}, {13, Вася, 9121116566}]
+2023-03-28 22:21:48 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {6, Вася, 9121116566}
+2023-03-28 22:21:48 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:21:48 INFO  PhoneBookController:30 - Полученный список контактов: [{14, Иван, 9123456789}, {15, Петр, 9123456566}, {16, Вася, 9121116566}]
+2023-03-28 22:21:48 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:21:48 INFO  PhoneBookController:30 - Полученный список контактов: [{17, Иван, 9123456789}, {18, Петр, 9123456566}, {19, Вася, 9121116566}]
+2023-03-28 22:27:30 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 15120 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:27:30 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:27:30 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:27:32 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:27:32 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 1.987 seconds (JVM running for 3.192)
+2023-03-28 22:27:32 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:27:32 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 22:27:32 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {Петр, Петров, 9123456566}
+2023-03-28 22:27:32 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Петр, Петров, 9123456566}
+2023-03-28 22:27:32 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:27:32 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:27:32 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 22:27:32 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:27:32 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:27:32 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:27:32 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:27:32 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [4, 5]
+2023-03-28 22:27:32 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:27:32 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:27:32 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Вася, Сидоров, 9121116566}
+2023-03-28 22:27:32 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:27:32 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:27:32 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:27:32 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:28:06 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 12768 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:28:06 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:28:06 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:28:08 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:28:08 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.003 seconds (JVM running for 3.119)
+2023-03-28 22:28:08 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:28:08 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-28 22:28:08 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {Иван, Иванов, 9123456789}
+2023-03-28 22:28:08 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Иван, Иванов, 9123456789}
+2023-03-28 22:28:08 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [4, 5]
+2023-03-28 22:28:08 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:28:08 INFO  PhoneBookController:30 - Полученный список контактов: [{Вася, Сидоров, 9121116566}]
+2023-03-28 22:28:23 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 10636 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:28:23 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:28:23 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:28:24 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:28:24 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 1.974 seconds (JVM running for 3.107)
+2023-03-28 22:28:24 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:28:24 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 22:28:24 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {Петр, Петров, 9123456566}
+2023-03-28 22:28:24 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Петр, Петров, 9123456566}
+2023-03-28 22:28:25 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Вася, Сидоров, 9121116566}
+2023-03-28 22:28:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:28:25 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}]
+2023-03-28 22:35:10 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 11528 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:35:10 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:35:10 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:35:12 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:35:12 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.093 seconds (JVM running for 3.279)
+2023-03-28 22:35:12 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:35:12 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 22:35:12 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {Петр, Петров, 9123456566}
+2023-03-28 22:35:12 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Петр, Петров, 9123456566}
+2023-03-28 22:35:12 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:35:12 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:35:12 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 22:35:12 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:35:12 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:35:12 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:35:12 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:35:12 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:35:12 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:35:12 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [4, 5]
+2023-03-28 22:35:12 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:35:12 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:35:12 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Вася, Сидоров, 9121116566}
+2023-03-28 22:35:12 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:35:12 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:35:12 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:35:12 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:37:26 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 3264 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:37:26 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:37:26 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:37:27 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:37:27 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.052 seconds (JVM running for 3.196)
+2023-03-28 22:37:27 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:37:27 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-28 22:37:27 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {Иван, Иванов, 9123456789}
+2023-03-28 22:37:27 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Иван, Иванов, 9123456789}
+2023-03-28 22:37:28 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:37:28 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:37:28 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 22:37:28 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:37:28 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:37:28 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:37:28 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:37:28 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:37:28 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:37:28 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [4, 5]
+2023-03-28 22:37:28 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:37:28 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:37:28 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Вася, Сидоров, 9121116566}
+2023-03-28 22:37:28 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:37:28 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:37:28 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:37:28 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:38:27 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 13420 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:38:27 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:38:27 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:38:28 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:38:28 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.023 seconds (JVM running for 3.185)
+2023-03-28 22:38:28 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:38:28 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 22:38:28 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {Петр, Петров, 9123456566}
+2023-03-28 22:38:28 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Петр, Петров, 9123456566}
+2023-03-28 22:38:29 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:38:29 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:38:29 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 22:38:29 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:38:29 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:38:29 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:38:29 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:38:29 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:38:29 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:38:29 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [4, 5]
+2023-03-28 22:38:29 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:38:29 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:38:29 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Вася, Сидоров, 9121116566}
+2023-03-28 22:38:29 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:38:29 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:38:29 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:38:29 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:39:41 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 4080 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:39:41 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:39:41 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:39:43 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:39:43 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.063 seconds (JVM running for 3.237)
+2023-03-28 22:39:43 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:39:43 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-28 22:39:43 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {Вася, Сидоров, 9121116566}
+2023-03-28 22:39:43 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Вася, Сидоров, 9121116566}
+2023-03-28 22:39:43 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:39:43 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:39:43 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 22:39:43 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:39:43 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:39:43 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:39:43 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:39:43 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:39:43 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:39:43 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [4, 5]
+2023-03-28 22:39:43 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:39:43 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:39:43 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Вася, Сидоров, 9121116566}
+2023-03-28 22:39:43 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:39:43 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:39:43 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:39:43 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:45:23 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 12484 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:45:23 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:45:23 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:45:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:25 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.051 seconds (JVM running for 3.203)
+2023-03-28 22:45:25 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:45:25 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-28 22:45:25 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {Вася, Сидоров, 9121116566}
+2023-03-28 22:45:25 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Вася, Сидоров, 9121116566}
+2023-03-28 22:45:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:25 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:45:25 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 22:45:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:25 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:45:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:25 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:45:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:25 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:45:25 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [4, 5]
+2023-03-28 22:45:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:25 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:45:25 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 22:45:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:25 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:45:25 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Вася, Сидоров, 9121116566}
+2023-03-28 22:45:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:25 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:45:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:25 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:45:54 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 6852 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:45:54 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:45:54 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:45:56 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:56 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.181 seconds (JVM running for 3.5)
+2023-03-28 22:45:56 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:45:56 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 22:45:56 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {Петр, Петров, 9123456566}
+2023-03-28 22:45:56 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Петр, Петров, 9123456566}
+2023-03-28 22:45:56 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:56 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:45:56 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 22:45:56 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:56 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:45:56 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:56 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:45:56 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:56 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:45:56 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [4, 5]
+2023-03-28 22:45:56 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:56 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:45:56 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 22:45:56 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:56 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:45:56 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 22:45:56 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:56 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:45:56 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:45:56 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:50:18 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 1612 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:50:18 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:50:18 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:50:20 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:50:20 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.071 seconds (JVM running for 3.177)
+2023-03-28 22:50:20 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:50:20 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-28 22:50:20 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {Иван, Иванов, 9123456789}
+2023-03-28 22:50:20 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Иван, Иванов, 9123456789}
+2023-03-28 22:50:20 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:50:20 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:50:20 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 22:50:20 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:50:20 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:50:20 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:50:20 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:50:21 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:50:21 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:50:21 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [4, 5]
+2023-03-28 22:50:21 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:50:21 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:50:21 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 22:50:21 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:50:21 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:50:21 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:50:21 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:50:21 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 22:50:21 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:50:21 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:50:21 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:50:21 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:50:21 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:50:21 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:52:05 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 11808 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 22:52:05 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 22:52:05 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 22:52:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:52:07 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.03 seconds (JVM running for 3.186)
+2023-03-28 22:52:07 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:52:07 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-28 22:52:07 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {Иван, Иванов, 9123456789}
+2023-03-28 22:52:07 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Иван, Иванов, 9123456789}
+2023-03-28 22:52:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:52:07 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:52:07 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 22:52:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:52:07 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:52:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:52:07 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:52:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:52:07 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:52:07 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [4, 5]
+2023-03-28 22:52:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:52:07 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:52:07 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 22:52:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:52:07 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:52:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:52:07 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 22:52:07 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 22:52:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:52:07 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 22:52:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 22:52:07 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 23:01:12 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 11128 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 23:01:12 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 23:01:12 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 23:01:13 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:13 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.008 seconds (JVM running for 3.106)
+2023-03-28 23:01:13 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 23:01:13 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-28 23:01:13 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {Петр, Петров, 9123456566}
+2023-03-28 23:01:13 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Петр, Петров, 9123456566}
+2023-03-28 23:01:14 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:14 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 23:01:14 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 23:01:14 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:14 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 23:01:14 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:14 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 23:01:14 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:14 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 23:01:14 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:14 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 23:01:14 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [2, 3]
+2023-03-28 23:01:14 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:14 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 23:01:14 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 23:01:14 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:14 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 23:01:14 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 23:01:14 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:14 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 23:01:14 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:14 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 23:01:50 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 13496 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 23:01:50 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 23:01:50 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 23:01:52 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:52 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.009 seconds (JVM running for 3.13)
+2023-03-28 23:01:52 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 23:01:52 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-28 23:01:52 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {Вася, Сидоров, 9121116566}
+2023-03-28 23:01:52 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Вася, Сидоров, 9121116566}
+2023-03-28 23:01:52 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:52 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 23:01:52 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 23:01:52 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:52 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 23:01:52 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:52 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 23:01:53 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:53 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 23:01:53 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:53 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 23:01:53 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [5, 6]
+2023-03-28 23:01:53 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:53 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 23:01:53 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 23:01:53 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:53 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}, {Anna, Yudina, 777}]
+2023-03-28 23:01:53 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {Anna, Yudina, 777}
+2023-03-28 23:01:53 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:53 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 23:01:53 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:01:53 INFO  PhoneBookController:30 - Полученный список контактов: [{Иван, Иванов, 9123456789}, {Петр, Петров, 9123456566}, {Вася, Сидоров, 9121116566}]
+2023-03-28 23:03:02 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 10796 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-28 23:03:02 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-28 23:03:02 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-28 23:03:04 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:03:04 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.06 seconds (JVM running for 3.246)
+2023-03-28 23:03:04 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-28 23:03:04 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-28 23:03:04 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, Сидоров, 9121116566}
+2023-03-28 23:03:04 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, Сидоров, 9121116566}
+2023-03-28 23:03:04 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:03:04 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-28 23:03:04 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, Anna, Yudina, 777}
+2023-03-28 23:03:04 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:03:04 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}, {7, Anna, Yudina, 777}]
+2023-03-28 23:03:04 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:03:04 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}, {7, Anna, Yudina, 777}]
+2023-03-28 23:03:04 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:03:04 INFO  PhoneBookController:30 - Полученный список контактов: [{8, Иван, Иванов, 9123456789}, {9, Петр, Петров, 9123456566}, {10, Вася, Сидоров, 9121116566}]
+2023-03-28 23:03:04 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:03:04 INFO  PhoneBookController:30 - Полученный список контактов: [{11, Иван, Иванов, 9123456789}, {12, Петр, Петров, 9123456566}, {13, Вася, Сидоров, 9121116566}]
+2023-03-28 23:03:04 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [5, 6]
+2023-03-28 23:03:04 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:03:04 INFO  PhoneBookController:30 - Полученный список контактов: [{11, Иван, Иванов, 9123456789}, {12, Петр, Петров, 9123456566}, {13, Вася, Сидоров, 9121116566}]
+2023-03-28 23:03:04 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, Anna, Yudina, 777}
+2023-03-28 23:03:04 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:03:04 INFO  PhoneBookController:30 - Полученный список контактов: [{14, Иван, Иванов, 9123456789}, {15, Петр, Петров, 9123456566}, {16, Вася, Сидоров, 9121116566}, {17, Anna, Yudina, 777}]
+2023-03-28 23:03:04 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {17, Anna, Yudina, 777}
+2023-03-28 23:03:04 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:03:04 INFO  PhoneBookController:30 - Полученный список контактов: [{14, Иван, Иванов, 9123456789}, {15, Петр, Петров, 9123456566}, {16, Вася, Сидоров, 9121116566}]
+2023-03-28 23:03:04 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-28 23:03:04 INFO  PhoneBookController:30 - Полученный список контактов: [{18, Иван, Иванов, 9123456789}, {19, Петр, Петров, 9123456566}, {20, Вася, Сидоров, 9121116566}]
+2023-03-29 22:08:24 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 14964 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:08:24 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:08:24 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:08:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:08:25 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.123 seconds (JVM running for 3.507)
+2023-03-29 22:08:25 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:08:25 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-29 22:08:25 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, Иванов, 9123456789}
+2023-03-29 22:08:25 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {1, Иван, Иванов, 9123456789}
+2023-03-29 22:08:26 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:08:26 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:08:26 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, Anna, Yudina, 777}
+2023-03-29 22:08:26 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:08:26 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}, {7, Anna, Yudina, 777}]
+2023-03-29 22:08:26 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:08:26 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}, {7, Anna, Yudina, 777}]
+2023-03-29 22:08:26 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:08:26 INFO  PhoneBookController:30 - Полученный список контактов: [{8, Иван, Иванов, 9123456789}, {9, Петр, Петров, 9123456566}, {10, Вася, Сидоров, 9121116566}]
+2023-03-29 22:08:26 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:08:26 INFO  PhoneBookController:30 - Полученный список контактов: [{11, Иван, Иванов, 9123456789}, {12, Петр, Петров, 9123456566}, {13, Вася, Сидоров, 9121116566}]
+2023-03-29 22:08:26 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [5, 6]
+2023-03-29 22:08:26 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:08:26 INFO  PhoneBookController:30 - Полученный список контактов: [{11, Иван, Иванов, 9123456789}, {12, Петр, Петров, 9123456566}, {13, Вася, Сидоров, 9121116566}]
+2023-03-29 22:08:26 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, Anna, Yudina, 777}
+2023-03-29 22:08:26 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:08:26 INFO  PhoneBookController:30 - Полученный список контактов: [{14, Иван, Иванов, 9123456789}, {15, Петр, Петров, 9123456566}, {16, Вася, Сидоров, 9121116566}, {17, Anna, Yudina, 777}]
+2023-03-29 22:08:26 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {17, Anna, Yudina, 777}
+2023-03-29 22:08:26 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:08:26 INFO  PhoneBookController:30 - Полученный список контактов: [{14, Иван, Иванов, 9123456789}, {15, Петр, Петров, 9123456566}, {16, Вася, Сидоров, 9121116566}]
+2023-03-29 22:08:26 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:08:26 INFO  PhoneBookController:30 - Полученный список контактов: [{18, Иван, Иванов, 9123456789}, {19, Петр, Петров, 9123456566}, {20, Вася, Сидоров, 9121116566}]
+2023-03-29 22:09:56 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 1372 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:09:56 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:09:56 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:09:58 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:09:58 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.596 seconds (JVM running for 4.226)
+2023-03-29 22:09:58 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:09:58 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-29 22:09:58 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, Иванов, 9123456789}
+2023-03-29 22:09:58 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {1, Иван, Иванов, 9123456789}
+2023-03-29 22:09:58 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:09:58 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:09:58 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, Anna, Yudina, 777}
+2023-03-29 22:09:58 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:09:58 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}, {7, Anna, Yudina, 777}]
+2023-03-29 22:09:58 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:09:58 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}, {7, Anna, Yudina, 777}]
+2023-03-29 22:11:41 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 2604 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:11:41 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:11:41 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:11:43 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:11:43 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.678 seconds (JVM running for 4.237)
+2023-03-29 22:11:43 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:11:43 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-29 22:11:43 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:11:43 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:11:43 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:11:43 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:11:43 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [5, 6]
+2023-03-29 22:11:43 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:11:43 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}]
+2023-03-29 22:13:02 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 1736 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:13:02 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:13:02 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:13:05 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:13:05 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.713 seconds (JVM running for 4.288)
+2023-03-29 22:13:05 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:13:05 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-29 22:13:05 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:13:05 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:13:05 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:13:05 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:13:05 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [5, 6]
+2023-03-29 22:13:05 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:13:05 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}]
+2023-03-29 22:13:15 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 11020 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:13:15 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:13:15 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:13:17 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:13:17 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.746 seconds (JVM running for 4.305)
+2023-03-29 22:13:17 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:13:17 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-29 22:13:17 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:13:17 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:13:18 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:13:18 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:13:18 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, Anna, Yudina, 777}
+2023-03-29 22:13:18 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:13:18 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}, {7, Anna, Yudina, 777}]
+2023-03-29 22:13:18 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:13:18 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}, {7, Anna, Yudina, 777}]
+2023-03-29 22:13:18 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:13:18 INFO  PhoneBookController:30 - Полученный список контактов: [{8, Иван, Иванов, 9123456789}, {9, Петр, Петров, 9123456566}, {10, Вася, Сидоров, 9121116566}]
+2023-03-29 22:13:18 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:13:18 INFO  PhoneBookController:30 - Полученный список контактов: [{11, Иван, Иванов, 9123456789}, {12, Петр, Петров, 9123456566}, {13, Вася, Сидоров, 9121116566}]
+2023-03-29 22:13:18 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [5, 6]
+2023-03-29 22:13:18 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:13:18 INFO  PhoneBookController:30 - Полученный список контактов: [{11, Иван, Иванов, 9123456789}, {12, Петр, Петров, 9123456566}, {13, Вася, Сидоров, 9121116566}]
+2023-03-29 22:13:18 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, Anna, Yudina, 777}
+2023-03-29 22:13:18 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:13:18 INFO  PhoneBookController:30 - Полученный список контактов: [{14, Иван, Иванов, 9123456789}, {15, Петр, Петров, 9123456566}, {16, Вася, Сидоров, 9121116566}, {17, Anna, Yudina, 777}]
+2023-03-29 22:13:18 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {17, Anna, Yudina, 777}
+2023-03-29 22:13:18 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:13:18 INFO  PhoneBookController:30 - Полученный список контактов: [{14, Иван, Иванов, 9123456789}, {15, Петр, Петров, 9123456566}, {16, Вася, Сидоров, 9121116566}]
+2023-03-29 22:13:18 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:13:18 INFO  PhoneBookController:30 - Полученный список контактов: [{18, Иван, Иванов, 9123456789}, {19, Петр, Петров, 9123456566}, {20, Вася, Сидоров, 9121116566}]
+2023-03-29 22:18:04 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 10872 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:18:04 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:18:04 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:18:06 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:18:06 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.729 seconds (JVM running for 4.299)
+2023-03-29 22:18:06 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:18:06 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-29 22:18:06 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:18:06 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:18:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:18:07 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:18:07 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, Anna, Yudina, 777}
+2023-03-29 22:18:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:18:07 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}, {7, Anna, Yudina, 777}]
+2023-03-29 22:18:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:18:07 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}, {7, Anna, Yudina, 777}]
+2023-03-29 22:18:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:18:07 INFO  PhoneBookController:30 - Полученный список контактов: [{8, Иван, Иванов, 9123456789}, {9, Петр, Петров, 9123456566}, {10, Вася, Сидоров, 9121116566}]
+2023-03-29 22:18:07 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [5, 6]
+2023-03-29 22:18:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:18:07 INFO  PhoneBookController:30 - Полученный список контактов: [{8, Иван, Иванов, 9123456789}, {9, Петр, Петров, 9123456566}, {10, Вася, Сидоров, 9121116566}]
+2023-03-29 22:18:07 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, Anna, Yudina, 777}
+2023-03-29 22:18:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:18:07 INFO  PhoneBookController:30 - Полученный список контактов: [{11, Иван, Иванов, 9123456789}, {12, Петр, Петров, 9123456566}, {13, Вася, Сидоров, 9121116566}, {14, Anna, Yudina, 777}]
+2023-03-29 22:18:07 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {14, Anna, Yudina, 777}
+2023-03-29 22:18:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:18:07 INFO  PhoneBookController:30 - Полученный список контактов: [{11, Иван, Иванов, 9123456789}, {12, Петр, Петров, 9123456566}, {13, Вася, Сидоров, 9121116566}]
+2023-03-29 22:18:07 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:18:07 INFO  PhoneBookController:30 - Полученный список контактов: [{15, Иван, Иванов, 9123456789}, {16, Петр, Петров, 9123456566}, {17, Вася, Сидоров, 9121116566}]
+2023-03-29 22:20:55 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 10772 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:20:55 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:20:55 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:20:57 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:20:57 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.64 seconds (JVM running for 4.27)
+2023-03-29 22:20:57 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:20:57 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-29 22:20:57 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, Петров, 9123456566}
+2023-03-29 22:20:57 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {2, Петр, Петров, 9123456566}
+2023-03-29 22:20:57 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:20:57 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:20:57 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [5, 6]
+2023-03-29 22:20:57 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:20:57 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}]
+2023-03-29 22:26:03 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 9252 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:26:03 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:26:03 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:26:05 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:26:05 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.443 seconds (JVM running for 4.069)
+2023-03-29 22:26:05 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:26:05 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-29 22:26:05 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, Петров, 9123456566}
+2023-03-29 22:26:05 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {2, Петр, Петров, 9123456566}
+2023-03-29 22:26:05 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:26:05 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:26:05 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [5, 6]
+2023-03-29 22:26:05 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:26:05 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}]
+2023-03-29 22:27:16 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 17124 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:27:16 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:27:16 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:27:18 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:27:18 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.369 seconds (JVM running for 3.963)
+2023-03-29 22:27:18 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:27:18 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-29 22:27:18 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:27:18 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:27:18 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:27:18 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:27:18 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [5, 6]
+2023-03-29 22:27:18 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:27:18 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}]
+2023-03-29 22:41:26 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 10892 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:41:26 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:41:26 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:41:28 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:41:28 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.762 seconds (JVM running for 4.388)
+2023-03-29 22:41:28 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:41:28 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-29 22:41:28 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:41:28 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:41:29 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:41:29 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:41:29 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {4, Иван, Иванов, 9123456789}
+2023-03-29 22:41:29 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:41:29 INFO  PhoneBookController:30 - Полученный список контактов: [{5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:41:36 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 16180 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:41:36 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:41:36 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:41:39 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:41:39 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.811 seconds (JVM running for 4.422)
+2023-03-29 22:41:39 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:41:39 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-29 22:41:39 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:41:39 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:41:39 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:41:39 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:41:39 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {6, Вася, Сидоров, 9121116566}
+2023-03-29 22:41:39 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:41:39 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}]
+2023-03-29 22:42:22 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 13540 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:42:22 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:42:22 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:42:24 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:42:24 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.752 seconds (JVM running for 4.411)
+2023-03-29 22:42:24 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:42:24 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-29 22:42:24 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, Петров, 9123456566}
+2023-03-29 22:42:24 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {2, Петр, Петров, 9123456566}
+2023-03-29 22:42:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:42:25 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:42:25 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, Anna, Yudina, 777}
+2023-03-29 22:42:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:42:25 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}, {7, Anna, Yudina, 777}]
+2023-03-29 22:42:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:42:25 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}, {7, Anna, Yudina, 777}]
+2023-03-29 22:42:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:42:25 INFO  PhoneBookController:30 - Полученный список контактов: [{8, Иван, Иванов, 9123456789}, {9, Петр, Петров, 9123456566}, {10, Вася, Сидоров, 9121116566}]
+2023-03-29 22:42:25 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [5, 6]
+2023-03-29 22:42:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:42:25 INFO  PhoneBookController:30 - Полученный список контактов: [{8, Иван, Иванов, 9123456789}, {9, Петр, Петров, 9123456566}, {10, Вася, Сидоров, 9121116566}]
+2023-03-29 22:42:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:42:25 INFO  PhoneBookController:30 - Полученный список контактов: [{11, Иван, Иванов, 9123456789}, {12, Петр, Петров, 9123456566}, {13, Вася, Сидоров, 9121116566}]
+2023-03-29 22:42:25 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {12, Петр, Петров, 9123456566}
+2023-03-29 22:42:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:42:25 INFO  PhoneBookController:30 - Полученный список контактов: [{11, Иван, Иванов, 9123456789}, {13, Вася, Сидоров, 9121116566}]
+2023-03-29 22:42:25 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:42:25 INFO  PhoneBookController:30 - Полученный список контактов: [{14, Иван, Иванов, 9123456789}, {15, Петр, Петров, 9123456566}, {16, Вася, Сидоров, 9121116566}]
+2023-03-29 22:44:31 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 13644 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:44:31 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:44:31 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:44:33 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:44:33 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.817 seconds (JVM running for 4.59)
+2023-03-29 22:44:33 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:44:33 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-29 22:44:33 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:44:33 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:44:34 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:44:34 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:44:34 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, Anna, Yudina, 777}
+2023-03-29 22:44:34 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:44:34 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}, {7, Anna, Yudina, 777}]
+2023-03-29 22:44:34 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:44:34 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}, {7, Anna, Yudina, 777}]
+2023-03-29 22:44:34 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:44:34 INFO  PhoneBookController:30 - Полученный список контактов: [{8, Иван, Иванов, 9123456789}, {9, Петр, Петров, 9123456566}, {10, Вася, Сидоров, 9121116566}]
+2023-03-29 22:44:34 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [5, 6]
+2023-03-29 22:44:34 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:44:34 INFO  PhoneBookController:30 - Полученный список контактов: [{8, Иван, Иванов, 9123456789}, {9, Петр, Петров, 9123456566}, {10, Вася, Сидоров, 9121116566}]
+2023-03-29 22:44:34 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:44:34 INFO  PhoneBookController:30 - Полученный список контактов: [{11, Иван, Иванов, 9123456789}, {12, Петр, Петров, 9123456566}, {13, Вася, Сидоров, 9121116566}]
+2023-03-29 22:44:34 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {11, Иван, Иванов, 9123456789}
+2023-03-29 22:44:34 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:44:34 INFO  PhoneBookController:30 - Полученный список контактов: [{12, Петр, Петров, 9123456566}, {13, Вася, Сидоров, 9121116566}]
+2023-03-29 22:44:34 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:44:34 INFO  PhoneBookController:30 - Полученный список контактов: [{14, Иван, Иванов, 9123456789}, {15, Петр, Петров, 9123456566}, {16, Вася, Сидоров, 9121116566}]
+2023-03-29 22:53:08 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 6504 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:53:08 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:53:08 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:53:10 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:53:10 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.823 seconds (JVM running for 4.393)
+2023-03-29 22:53:10 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:53:10 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-29 22:53:10 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:53:10 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:53:11 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:53:11 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:53:11 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [6, 4]
+2023-03-29 22:53:11 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:53:11 INFO  PhoneBookController:30 - Полученный список контактов: [{5, Петр, Петров, 9123456566}]
+2023-03-29 22:53:36 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 13952 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:53:36 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:53:36 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:53:38 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:53:38 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.781 seconds (JVM running for 4.345)
+2023-03-29 22:53:38 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:53:38 DEBUG ContactScheduler:34 - Random index: 1
+2023-03-29 22:53:38 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, Петров, 9123456566}
+2023-03-29 22:53:38 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {2, Петр, Петров, 9123456566}
+2023-03-29 22:53:39 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:53:39 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:53:39 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, Anna, Yudina, 777}
+2023-03-29 22:53:39 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:53:39 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}, {7, Anna, Yudina, 777}]
+2023-03-29 22:53:39 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:53:39 INFO  PhoneBookController:30 - Полученный список контактов: [{8, Иван, Иванов, 9123456789}, {9, Петр, Петров, 9123456566}, {10, Вася, Сидоров, 9121116566}]
+2023-03-29 22:53:39 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [9, 8]
+2023-03-29 22:53:39 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:53:39 INFO  PhoneBookController:30 - Полученный список контактов: [{10, Вася, Сидоров, 9121116566}]
+2023-03-29 22:53:39 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:53:39 INFO  PhoneBookController:30 - Полученный список контактов: [{11, Иван, Иванов, 9123456789}, {12, Петр, Петров, 9123456566}, {13, Вася, Сидоров, 9121116566}]
+2023-03-29 22:53:39 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {12, Петр, Петров, 9123456566}
+2023-03-29 22:53:39 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:53:39 INFO  PhoneBookController:30 - Полученный список контактов: [{11, Иван, Иванов, 9123456789}, {13, Вася, Сидоров, 9121116566}]
+2023-03-29 22:53:39 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:53:39 INFO  PhoneBookController:30 - Полученный список контактов: [{14, Иван, Иванов, 9123456789}, {15, Петр, Петров, 9123456566}, {16, Вася, Сидоров, 9121116566}]
+2023-03-29 22:54:10 INFO  PhoneBookControllerTest:55 - Starting PhoneBookControllerTest using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 12676 (started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:54:10 DEBUG PhoneBookControllerTest:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:54:10 INFO  PhoneBookControllerTest:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:54:12 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:54:12 INFO  PhoneBookControllerTest:61 - Started PhoneBookControllerTest in 2.769 seconds (JVM running for 4.352)
+2023-03-29 22:54:12 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:54:12 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-29 22:54:12 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:54:12 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:54:12 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:54:12 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {5, Петр, Петров, 9123456566}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:54:12 INFO  PhoneBookController:70 - Вызвали метод deleteCheckedContacts с переданными id контактов: [5]
+2023-03-29 22:54:12 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:54:12 INFO  PhoneBookController:30 - Полученный список контактов: [{4, Иван, Иванов, 9123456789}, {6, Вася, Сидоров, 9121116566}]
+2023-03-29 22:56:29 INFO  SpringBootAppApplication:55 - Starting SpringBootAppApplication using Java 11.0.17 on LAPTOP-EFKQ41G8 with PID 7192 (C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot\target\classes started by anuta in C:\Users\anuta\IdeaProjectsLearn\anna-yudina-spring-boot)
+2023-03-29 22:56:29 DEBUG SpringBootAppApplication:56 - Running with Spring Boot v2.7.9, Spring v5.3.25
+2023-03-29 22:56:29 INFO  SpringBootAppApplication:631 - No active profile set, falling back to 1 default profile: "default"
+2023-03-29 22:56:31 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:56:31 INFO  SpringBootAppApplication:61 - Started SpringBootAppApplication in 2.139 seconds (JVM running for 3.18)
+2023-03-29 22:56:31 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}, {3, Вася, Сидоров, 9121116566}]
+2023-03-29 22:56:31 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-29 22:56:31 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:56:31 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {3, Вася, Сидоров, 9121116566}
+2023-03-29 22:56:41 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:56:41 INFO  PhoneBookController:30 - Полученный список контактов: [{1, Иван, Иванов, 9123456789}, {2, Петр, Петров, 9123456566}]
+2023-03-29 22:56:41 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-29 22:56:41 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {1, Иван, Иванов, 9123456789}
+2023-03-29 22:56:41 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {1, Иван, Иванов, 9123456789}
+2023-03-29 22:56:49 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:56:49 INFO  PhoneBookController:30 - Полученный список контактов: [{2, Петр, Петров, 9123456566}]
+2023-03-29 22:56:51 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:56:51 INFO  PhoneBookController:30 - Полученный список контактов: [{2, Петр, Петров, 9123456566}]
+2023-03-29 22:56:51 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-29 22:56:51 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {2, Петр, Петров, 9123456566}
+2023-03-29 22:56:51 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {2, Петр, Петров, 9123456566}
+2023-03-29 22:57:01 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:57:01 INFO  PhoneBookController:30 - Полученный список контактов: []
+2023-03-29 22:57:01 ERROR ContactScheduler:28 - Список контактов пуст, нечего удалять
+2023-03-29 22:57:01 ERROR TaskUtils$LoggingErrorHandler:95 - Unexpected error occurred in scheduled task
+java.lang.RuntimeException: Список контактов пуст, нечего удалять
+	at ru.yudina.springcourse.schedule.ContactScheduler.deleteRandomContactBySchedule(ContactScheduler.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2023-03-29 22:57:11 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:57:11 INFO  PhoneBookController:30 - Полученный список контактов: []
+2023-03-29 22:57:11 ERROR ContactScheduler:28 - Список контактов пуст, нечего удалять
+2023-03-29 22:57:11 ERROR TaskUtils$LoggingErrorHandler:95 - Unexpected error occurred in scheduled task
+java.lang.RuntimeException: Список контактов пуст, нечего удалять
+	at ru.yudina.springcourse.schedule.ContactScheduler.deleteRandomContactBySchedule(ContactScheduler.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2023-03-29 22:57:21 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:57:21 INFO  PhoneBookController:30 - Полученный список контактов: []
+2023-03-29 22:57:21 ERROR ContactScheduler:28 - Список контактов пуст, нечего удалять
+2023-03-29 22:57:21 ERROR TaskUtils$LoggingErrorHandler:95 - Unexpected error occurred in scheduled task
+java.lang.RuntimeException: Список контактов пуст, нечего удалять
+	at ru.yudina.springcourse.schedule.ContactScheduler.deleteRandomContactBySchedule(ContactScheduler.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2023-03-29 22:57:28 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:57:28 INFO  PhoneBookController:30 - Полученный список контактов: []
+2023-03-29 22:57:31 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:57:31 INFO  PhoneBookController:30 - Полученный список контактов: []
+2023-03-29 22:57:31 ERROR ContactScheduler:28 - Список контактов пуст, нечего удалять
+2023-03-29 22:57:31 ERROR TaskUtils$LoggingErrorHandler:95 - Unexpected error occurred in scheduled task
+java.lang.RuntimeException: Список контактов пуст, нечего удалять
+	at ru.yudina.springcourse.schedule.ContactScheduler.deleteRandomContactBySchedule(ContactScheduler.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2023-03-29 22:57:35 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:57:35 INFO  PhoneBookController:30 - Полученный список контактов: []
+2023-03-29 22:57:37 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:57:37 INFO  PhoneBookController:30 - Полученный список контактов: []
+2023-03-29 22:57:40 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, 1, 1, 1}
+2023-03-29 22:57:40 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:57:40 INFO  PhoneBookController:30 - Полученный список контактов: [{4, 1, 1, 1}]
+2023-03-29 22:57:41 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:57:41 INFO  PhoneBookController:30 - Полученный список контактов: [{4, 1, 1, 1}]
+2023-03-29 22:57:41 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-29 22:57:41 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {4, 1, 1, 1}
+2023-03-29 22:57:41 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {4, 1, 1, 1}
+2023-03-29 22:57:42 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, 2, 2, 2}
+2023-03-29 22:57:42 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:57:42 INFO  PhoneBookController:30 - Полученный список контактов: [{5, 2, 2, 2}]
+2023-03-29 22:57:45 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, 3, 3, 3}
+2023-03-29 22:57:45 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:57:45 INFO  PhoneBookController:30 - Полученный список контактов: [{5, 2, 2, 2}, {6, 3, 3, 3}]
+2023-03-29 22:57:47 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, 4, 4, 4}
+2023-03-29 22:57:47 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:57:47 INFO  PhoneBookController:30 - Полученный список контактов: [{5, 2, 2, 2}, {6, 3, 3, 3}, {7, 4, 4, 4}]
+2023-03-29 22:57:49 INFO  PhoneBookController:43 - Вызвали метод addContact с переданным контактом: {0, 5, 5, 5}
+2023-03-29 22:57:49 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:57:49 INFO  PhoneBookController:30 - Полученный список контактов: [{5, 2, 2, 2}, {6, 3, 3, 3}, {7, 4, 4, 4}, {8, 5, 5, 5}]
+2023-03-29 22:57:51 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:57:51 INFO  PhoneBookController:30 - Полученный список контактов: [{5, 2, 2, 2}, {6, 3, 3, 3}, {7, 4, 4, 4}, {8, 5, 5, 5}]
+2023-03-29 22:57:51 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-29 22:57:51 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {5, 2, 2, 2}
+2023-03-29 22:57:51 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {5, 2, 2, 2}
+2023-03-29 22:57:53 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:57:53 INFO  PhoneBookController:30 - Полученный список контактов: [{6, 3, 3, 3}, {7, 4, 4, 4}, {8, 5, 5, 5}]
+2023-03-29 22:58:01 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:58:01 INFO  PhoneBookController:30 - Полученный список контактов: [{6, 3, 3, 3}, {7, 4, 4, 4}, {8, 5, 5, 5}]
+2023-03-29 22:58:01 DEBUG ContactScheduler:34 - Random index: 2
+2023-03-29 22:58:01 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {8, 5, 5, 5}
+2023-03-29 22:58:01 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {8, 5, 5, 5}
+2023-03-29 22:58:11 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:58:11 INFO  PhoneBookController:30 - Полученный список контактов: [{6, 3, 3, 3}, {7, 4, 4, 4}]
+2023-03-29 22:58:11 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-29 22:58:11 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {6, 3, 3, 3}
+2023-03-29 22:58:11 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {6, 3, 3, 3}
+2023-03-29 22:58:21 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:58:21 INFO  PhoneBookController:30 - Полученный список контактов: [{7, 4, 4, 4}]
+2023-03-29 22:58:21 DEBUG ContactScheduler:34 - Random index: 0
+2023-03-29 22:58:21 INFO  ContactScheduler:37 - Вызвали метод deleteRandomContactBySchedule по расписанию, удаляемый контакт: {7, 4, 4, 4}
+2023-03-29 22:58:21 INFO  PhoneBookController:58 - Вызвали метод deleteContact с переданным контактом: {7, 4, 4, 4}
+2023-03-29 22:58:31 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:58:31 INFO  PhoneBookController:30 - Полученный список контактов: []
+2023-03-29 22:58:31 ERROR ContactScheduler:28 - Список контактов пуст, нечего удалять
+2023-03-29 22:58:31 ERROR TaskUtils$LoggingErrorHandler:95 - Unexpected error occurred in scheduled task
+java.lang.RuntimeException: Список контактов пуст, нечего удалять
+	at ru.yudina.springcourse.schedule.ContactScheduler.deleteRandomContactBySchedule(ContactScheduler.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+2023-03-29 22:58:41 INFO  PhoneBookController:28 - Вызвали метод getAllContacts()
+2023-03-29 22:58:41 INFO  PhoneBookController:30 - Полученный список контактов: []
+2023-03-29 22:58:41 ERROR ContactScheduler:28 - Список контактов пуст, нечего удалять
+2023-03-29 22:58:41 ERROR TaskUtils$LoggingErrorHandler:95 - Unexpected error occurred in scheduled task
+java.lang.RuntimeException: Список контактов пуст, нечего удалять
+	at ru.yudina.springcourse.schedule.ContactScheduler.deleteRandomContactBySchedule(ContactScheduler.java:27)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.runAndReset(FutureTask.java:305)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.base/java.lang.Thread.run(Thread.java:829)

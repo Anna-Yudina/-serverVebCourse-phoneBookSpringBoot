@@ -7,6 +7,9 @@ public class Contact {
     private String phone;
     private boolean important;
 
+    public Contact() {
+    }
+
     public Contact(int id, String firstName, String lastName, String phone) {
         this.id = id;
         this.firstName = firstName;
@@ -56,6 +59,6 @@ public class Contact {
 
     @Override
     public String toString() {
-        return "{" + id + ", " + firstName + ", " + phone + "}";
+        return "{" + id + ", " + firstName + ", " + lastName + ", " + phone + "}";
     }
 }

@@ -27,6 +27,7 @@ public class PhoneBookController {
     public List<Contact> getAllContacts() {
         logger.info("Вызвали метод getAllContacts()");
         List<Contact> contacts = contactService.getAllContacts();
+        logger.info("Полученный список контактов: {}", contacts);
 
         if (contacts == null) {
             RuntimeException ex = new RuntimeException("Список контактов пуст");
