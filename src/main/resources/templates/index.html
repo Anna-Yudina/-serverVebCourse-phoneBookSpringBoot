@@ -55,7 +55,7 @@
                 <td v-text="contact.firstName"></td>
                 <td v-text="contact.phone"></td>
                 <td>
-                    <button class="btn btn-primary" type="button" @click="showDeleteButtonConfirmDialog(contact)">Удалить</button>
+                    <button class="btn btn-primary" type="button" @click="showDeleteButtonConfirmDialog(contact.id)">Удалить</button>
                 </td>
             </template>
         </tr>

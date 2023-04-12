@@ -1,7 +1,10 @@
 package ru.yudina.springcourse.service;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Service;
-import ru.yudina.springcourse.dao.ContactDao;
+import ru.yudina.springcourse.controllers.PhoneBookController;
+import ru.yudina.springcourse.dao.ContactDaoImpl;
 import ru.yudina.springcourse.model.Contact;
 import ru.yudina.springcourse.model.ContactValidation;
 
@@ -10,14 +13,16 @@ import java.util.List;
 
 @Service
 public class ContactService {
-    private final ContactDao contactDao;
+    private final ContactDaoImpl contactDaoImpl;
 
-    public ContactService(ContactDao contactDao) {
-        this.contactDao = contactDao;
+    private static final Logger logger = LoggerFactory.getLogger(PhoneBookController.class);
+
+    public ContactService(ContactDaoImpl contactDaoImpl) {
+        this.contactDaoImpl = contactDaoImpl;
     }
 
     private boolean isExistContactWithPhone(String phone) {
-        List<Contact> contactList = contactDao.getAllContacts();
+        List<Contact> contactList = contactDaoImpl.getAllContacts();
         for (Contact contact : contactList) {
             if (contact.getPhone().equals(phone)) {
                 return true;
@@ -57,19 +62,20 @@ public class ContactService {
 
     public ContactValidation addContact(Contact contact) {
         ContactValidation contactValidation = validateContact(contact);
-        contactDao.add(contact);
+        contactDaoImpl.add(contact);
         return contactValidation;
     }
 
     public List<Contact> getAllContacts() {
-        return contactDao.getAllContacts();
+        logger.info("Вызвали метод getAllContacts() в ContactService");
+        return contactDaoImpl.getAllContacts();
     }
 
-    public void deleteContact(Contact contact) {
-        contactDao.deleteContact(contact);
+    public void deleteContact(int deletedContactId) {
+        contactDaoImpl.deleteContact(deletedContactId);
     }
 
     public void deleteCheckedContacts(ArrayList<Integer> checkedContactsIds) {
-        contactDao.deleteCheckedContacts(checkedContactsIds);
+        contactDaoImpl.deleteCheckedContacts(checkedContactsIds);
     }
 }

@@ -17,7 +17,7 @@ new Vue({
         phone: "",
         contacts: [],
         serverError: "",
-        contactToDelete: null
+        deletedContactId: null
     },
     methods: {
         contactToString: function (contact) {
@@ -56,7 +56,7 @@ new Vue({
 
             $.ajax({
                 type: "POST",
-                url: "/phoneBook/rpc/api/v1/addContact",
+                url: "/phonebook/api/v1/add",
                 contentType: "application/json",
                 data: JSON.stringify(contact)
             }).done(function () {
@@ -78,7 +78,7 @@ new Vue({
         loadData: function () {
             var self = this;
 
-            $.get("/phoneBook/rpc/api/v1/getAllContacts").done(function (contactListFormServer) {
+            $.get("/phonebook/api/v1/get/all").done(function (contactListFormServer) {
                 self.contacts = self.convertContactList(contactListFormServer);
             });
         },
@@ -88,9 +88,9 @@ new Vue({
 
             $.ajax({
                 type: "POST",
-                url: "/phoneBook/rpc/api/v1/deleteContact",
+                url: "/phonebook/api/v1/delete",
                 contentType: "application/json",
-                data: JSON.stringify(this.contactToDelete)
+                data: JSON.stringify(this.deletedContactId)
             }).fail(function () {
                 alert("Ошибка при удалении контакта");
             }).always(function () {
@@ -98,8 +98,8 @@ new Vue({
             });
         },
 
-        showDeleteButtonConfirmDialog(deletedContact) {
-            this.contactToDelete = deletedContact;
+        showDeleteButtonConfirmDialog(deletedContactId) {
+            this.deletedContactId = deletedContactId;
 
             new bootstrap.Modal(this.$refs.deleteButtonConfirmDialog).show();
         },
@@ -117,7 +117,7 @@ new Vue({
 
             $.ajax({
                 type: "POST",
-                url: "/phoneBook/rpc/api/v1/deleteCheckedContacts",
+                url: "/phonebook/api/v1/deleted_checked",
                 contentType: "application/json",
                 data: JSON.stringify(checkedContactsIds)
             }).fail(function () {
