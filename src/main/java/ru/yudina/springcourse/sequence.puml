@@ -1,0 +1,20 @@
+@startuml
+
+actor User #red
+
+
+User [#red]-> html: click
+html [#red]-> PhoneBookController: REST request
+PhoneBookController [#red]-> ContactService
+ContactService [#red]-> ContactDaoImpl
+ContactDaoImpl [#red]->  GenericDaoImpl
+database PhoneBook_BD #green
+GenericDaoImpl [#red]-> PhoneBook_BD: запрос в БД
+PhoneBook_BD [#blue]-> GenericDaoImpl: ответ от БД
+GenericDaoImpl [#blue]-> ContactDaoImpl
+ContactDaoImpl [#blue]-> ContactService
+ContactService [#blue]-> PhoneBookController
+PhoneBookController [#blue]-> html: REST response
+html [#blue]-> User: view
+
+@enduml
